@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isabela</h1>
-<h3 align="center">Passionate about turning data into actionable insights through Data Science and Anaytics</h3>
+<h3 align="center">Passionate about turning data into actionable insights through Data Science and Analytics</h3>
 
 - 🔭 I’m currently working at Arcadis **as Senior Data Analyst**
 
