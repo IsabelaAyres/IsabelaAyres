@@ -5,7 +5,7 @@
 
 - 🌱 I'm a Production Engineer and currently enrolled in a Postgraduate Specialization in **Data Science and Analytics at PUC-Rio**
 
-- 👩‍💻 Counting on +6 years of hands-on experience with Planning, Control and Analysis. Pattern recognition and algorithmic thinking skills for data processing and analysis through the development of strategic dashboards that enables data-driven decision making
+- 👩‍💻 Counting on 7 years of hands-on experience with Planning, Control and Analysis. Pattern recognition and algorithmic thinking skills for data processing and analysis through the development of strategic dashboards that enables data-driven decision making
 
 - 📊 Expertise in Data Analytics, Data Mining, Data Visualization and Automations using technologies such as Excel, VBA, Power BI, SharePoint, Power Automate, Project, Python, Power Query and SQL Server
 
